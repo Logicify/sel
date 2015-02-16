@@ -71,3 +71,7 @@ However for expression which contains string in ther root of the syntax tree res
 ```
 Value is: $allOf(true, false) -> "Value is: False"
 ```
+
+Credits
+-------
+Dmitry Berezovsky, Logicify (<http://logicify.com/>)
