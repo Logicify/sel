@@ -1,3 +1,7 @@
 [submodule "sel-dotnet"]
 	path = sel-dotnet
 	url = https://github.com/Logicify/sel-dotnet.git
+	
+[submodule "sel-js"]
+	path = sel-js
+	url = https://github.com/Logicify/sel-js.git
