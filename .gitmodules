@@ -5,3 +5,11 @@
 [submodule "sel-js"]
 	path = sel-js
 	url = https://github.com/Logicify/sel-js.git
+
+[submodule "sel-ruby"]
+	path = sel-js
+	https://github.com/alex-bes/sel-ruby.git
+	
+[submodule "sel-lua"]
+	path = sel-lua
+	https://github.com/alex-bes/sel-lua.git	
