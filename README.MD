@@ -74,5 +74,5 @@ Value is: $allOf(true, false) -> "Value is: False"
 
 Credits
 -------
-Dmitry Berezovsky, Logicify (<http://logicify.com/>)
-Alex Beskrovny, Logicify (<http://logicify.com/>)
+* Dmitry Berezovsky, Logicify (<http://logicify.com/>)
+* Alex Beskrovny, Logicify (<http://logicify.com/>)
