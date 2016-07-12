@@ -7,9 +7,9 @@
 	url = https://github.com/Logicify/sel-js.git
 
 [submodule "sel-ruby"]
-	path = sel-js
+	path = sel-ruby
 	url = https://github.com/alex-bes/sel-ruby.git
 	
 [submodule "sel-lua"]
 	path = sel-lua
-	url = https://github.com/alex-bes/sel-lua.git	
+	url = https://github.com/alex-bes/sel-lua.git
